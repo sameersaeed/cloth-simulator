@@ -11,9 +11,27 @@ A real-time interactive cloth simulation written in C++17, uses OpenGL for rende
 - Real-time physics updates
 - Wireframe and pause view options
 
+## Demo
+
+<table>
+<tr>
+  <td align="center">
+    <b>Cloth Tearing</b><br>
+    <img src="https://github.com/sameersaeed/cloth-simulator/releases/download/demo-clips/cloth-tearing.gif" width="500">
+  </td>
+  <td align="center">
+    <b>Cloth Collision</b><br>
+    <img src="https://github.com/sameersaeed/cloth-simulator/releases/download/demo-clips/cloth-collision.gif" width="500">
+  </td>
+  <td align="center">
+    <b>Wind Physics</b><br>
+    <img src="https://github.com/sameersaeed/cloth-simulator/releases/download/demo-clips/cloth-wind-physics.gif" width="500">
+  </td>
+</tr>
+</table>
+
 
 ## Prerequisite Libraries / Installations
-
 
 ### CMake
 ```console
